@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension", "Extension\Extension.csproj", "{3542EEF0-0D6A-4F4A-914D-384E2CA0524A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netcorelibrary", "Netcorelibrary\Netcorelibrary.csproj", "{CBB211E4-8705-4E0C-A0AD-E91D80ED208E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3542EEF0-0D6A-4F4A-914D-384E2CA0524A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3542EEF0-0D6A-4F4A-914D-384E2CA0524A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3542EEF0-0D6A-4F4A-914D-384E2CA0524A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB211E4-8705-4E0C-A0AD-E91D80ED208E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB211E4-8705-4E0C-A0AD-E91D80ED208E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB211E4-8705-4E0C-A0AD-E91D80ED208E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB211E4-8705-4E0C-A0AD-E91D80ED208E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
